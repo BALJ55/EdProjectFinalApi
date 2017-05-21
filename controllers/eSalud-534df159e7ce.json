@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "esalud-f8523",
+  "private_key_id": "534df159e7cef824b0f63fe474ba31012fe2ffe6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDuG1vzJtahsyhj\nSbDU6ySY9UksP3XOnIsny2t+5vTNi6VHDWqwnGoLg7bj60dc/ZAp/DokjYimfrGJ\nboAZz6QdeJk1+/gj4EWY77Xz9bVWTXqx2JU/B9ca6j5LfaOtUbuISrZJWVG03ymQ\n8nvkDVrtmSgzNOAGgZ+OaoFv0WtqYjnGq2bWeR7/j9g5+71ay33a/N0p2qtEJt/D\nwDntuva8ItFTlyDzPeewS1C8uVJnGQSCRfXuCRi7/Dh1tjBuV3rNzxw1M8Ux6mcZ\n0nuwrUha4bwkweDMcjdX/Cp/Gja1QnHsqDOnU6w9nuVhVtA/MFoDZZm2hE9jUUXy\nT8rFhMdxAgMBAAECgf8FHGOa+ouMltI6cFBbYpdj+qCDLyWSgYfOx3WtQR9Op/Uj\nnfh8Ixwy0fcioUBqseWyVKh2PtBSTfttUHrDFZsaCWDG3CWGmouuqvfSasTfEtTR\nSH6sQRHWm2hVhRDVywxIIAPY3chxI5iD+xrvlP6O0Y0pw/tSBPJ3B9dK05bLxgYD\nMrOgCE1x9oQEk0+jKqXscv4eiCk2ySiXNCZZJlC2P9c1xpCAYzlKqis2atMhh7Xz\ny6gVMfULNbq9OSMiagiY9vlgHIiRTKe7OJdax36sivUCnaXbqKiZ7tiOUa0cXjKj\n0DoDJLAIZAw7Khoy1SN4eeizmrf1BhJktvG6O00CgYEA/WdgwQ1jAFWSoWQeiTbO\n2JY263TKnr1iVCojTBF8EBE9AbcgyZwoKBkiWarNf3mFw7Cn2/mq/VOEyEBsV8SD\nZOUYJnNje1E2M7snSv5KrnCuVth2uopyX6bXaWSKIVy5cs9ByVaRiAC2C9wxa04m\nZIq4Ii5PLLQQ3oa/JYG84wMCgYEA8IvcWLCSzV9Z5+43gd3DEDq0KkBftLuGcjjw\nDkPqe6VZNr9nefAmsmV2r0t9OooEQWftNU1hUVCJ2A9dcUkarDIiGC/CFQZ4d5Y/\n6SK9GrU/gmylVzdmntTGlC95vJeD2AC90P7yt3rBHlVvWC4wrpydKoWCbRS95qsE\n1duk53sCgYEAwOtBR/hPFOQRG/nDHaeyVkYWTa++ypdYEsd50+HD19+n2HR468SM\n9eocsrNMe+4inlcRlHFBcldxUZtqYG9lsRyRBET4yduMLlofkgKDDMcQk2F9Eotw\ng83bVYuLddbIANY1OXlElowkDGd44D7BD+5kPPGQqXH1HdTsFTvud80CgYEAoBST\nmTo5GA+ip2Sy7+wDCmPmzk904bQCbzVRHE06WPra+kI6vL2DIym+6D2Wo0SCPHzL\nMbPDVfgBJBZlmySJaZsbcXkm8hMSTJNjCOWjb4i7MTLYfchStNTpKmjF3SoABdnI\neLOSF2TL7EHzDX3/y9RSC6A6AhnRnxak6yV3As0CgYBoPIfEDSYRx1JpJ0xGA/bM\nZDFxRpXxy1TTsT8L9i7iwt1Kd0sHf5jpE5KRwH3f1+pnty4YxSxC/tgr2lUr3jfH\ntkDTtyzneAn2mh+eiFEFkZt70TILaOxNc4F7KZn8NdwNj9LtbIFzM146SwMljSNh\nBRz6MnYLSvutZPe23WZtNw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "appcrud@esalud-f8523.iam.gserviceaccount.com",
+  "client_id": "105824618985111105337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/appcrud%40esalud-f8523.iam.gserviceaccount.com"
+}
